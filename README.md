@@ -10,7 +10,7 @@ This repository contains code from exercises I did in the advanced SQL course on
 # Exercises
 
 - [x] OVER
-- [ ] PARTITION BY
+- [x] PARTITION BY
 - [ ] ROWNUMBER
 - [ ] RANK & DENSE_RANK
 - [ ] LEAD & LAG
