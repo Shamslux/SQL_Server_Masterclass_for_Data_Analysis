@@ -11,7 +11,7 @@ This repository contains code from exercises I did in the advanced SQL course on
 
 - [x] OVER
 - [x] PARTITION BY
-- [ ] ROWNUMBER
+- [x] ROWNUMBER
 - [ ] RANK & DENSE_RANK
 - [ ] LEAD & LAG
 - [ ] SCALAR SUBQUERIES
