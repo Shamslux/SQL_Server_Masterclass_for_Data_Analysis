@@ -12,7 +12,7 @@ This repository contains code from exercises I did in the advanced SQL course on
 - [x] OVER
 - [x] PARTITION BY
 - [x] ROWNUMBER
-- [ ] RANK & DENSE_RANK
+- [x] RANK & DENSE_RANK
 - [ ] LEAD & LAG
 - [ ] SCALAR SUBQUERIES
 - [ ] CORRELATED SUBQUERIES
