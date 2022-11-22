@@ -16,7 +16,7 @@ This repository contains code from exercises I did in the advanced SQL course on
 - [x] LEAD & LAG
 - [x] SCALAR SUBQUERIES
 - [x] CORRELATED SUBQUERIES
-- [ ] EXISTS
+- [x] EXISTS
 - [ ] FOR XML PATH WITH STUFF
 - [ ] PIVOT
 - [ ] CTEs
