@@ -17,7 +17,7 @@ This repository contains code from exercises I did in the advanced SQL course on
 - [x] SCALAR SUBQUERIES
 - [x] CORRELATED SUBQUERIES
 - [x] EXISTS
-- [ ] FOR XML PATH WITH STUFF
+- [x] FOR XML PATH WITH STUFF
 - [ ] PIVOT
 - [ ] CTEs
 - [ ] TEMP TABLES
