@@ -19,7 +19,7 @@ This repository contains code from exercises I did in the advanced SQL course on
 - [x] EXISTS
 - [x] FOR XML PATH WITH STUFF
 - [x] PIVOT
-- [ ] CTEs
+- [x] CTEs
 - [ ] TEMP TABLES
 - [ ] OPTIMIZATION
 - [ ] LOOKUP TABLES
