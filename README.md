@@ -21,8 +21,8 @@ This repository contains code from exercises I did in the advanced SQL course on
 - [x] PIVOT
 - [x] CTEs
 - [x] TEMP TABLES
-- [ ] OPTIMIZATION
-- [ ] LOOKUP TABLES
+- [x] OPTIMIZATION
+- [x] LOOKUP TABLES
 - [ ] VARIABLES
 - [ ] STORED PROCEDURES
 - [ ] CONTROL FLOW WITH IF
