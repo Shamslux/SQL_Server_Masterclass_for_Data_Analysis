@@ -23,7 +23,7 @@ This repository contains code from exercises I did in the advanced SQL course on
 - [x] TEMP TABLES
 - [x] OPTIMIZATION
 - [x] LOOKUP TABLES
-- [ ] VARIABLES
+- [x] VARIABLES
 - [ ] STORED PROCEDURES
 - [ ] CONTROL FLOW WITH IF
 - [ ] DYNAMIC SQL
