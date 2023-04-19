@@ -24,6 +24,7 @@ This repository contains code from exercises I did in the advanced SQL course on
 - [x] OPTIMIZATION
 - [x] LOOKUP TABLES
 - [x] VARIABLES
+- [x] FUNCTIONS
 - [ ] STORED PROCEDURES
 - [ ] CONTROL FLOW WITH IF
 - [ ] DYNAMIC SQL
