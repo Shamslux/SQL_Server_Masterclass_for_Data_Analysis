@@ -26,7 +26,8 @@ This repository contains code from exercises I did in the advanced SQL course on
 - [x] VARIABLES
 - [x] FUNCTIONS
 - [x] STORED PROCEDURES
-- [ ] CONTROL FLOW WITH IF
+- [x] CONTROL FLOW WITH IF
+- [ ] USING MULTIPLE IF STATEMENTS
 - [ ] DYNAMIC SQL
 
 
