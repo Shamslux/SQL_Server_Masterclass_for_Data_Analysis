@@ -34,7 +34,7 @@ BEGIN
 		BEGIN
 			SELECT	POH.PurchaseOrderID  
 					, POH.OrderDate 
-					, POH.ShipDate  
+					, POH.TotalDue 
 			FROM  AdventureWorks2019.Purchasing.PurchaseOrderHeader	POH
 			INNER JOIN AdventureWorks2019.dbo.Calendar				C
 			ON POH.OrderDate = C.DATE_VALUE 
